@@ -1,0 +1,18 @@
+{
+  "name": "<Application Name>",
+  "version": "0.0.0",
+  "description": "<Description about your application>",
+  "main": "server.js",
+    "dependencies": {
+        "express": "^4.14.0",
+        "body-parser": "^1.15.2",
+         “mssql”:”^ 3.3.0”
+    },
+    "scripts": {
+    "start": "node server.js"
+  },
+  "author": {
+    "name": "<Your Name>",
+    "email": "<Your Email>"
+  }
+}
